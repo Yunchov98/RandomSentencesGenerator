@@ -12,4 +12,4 @@ The **Generator** is based on the following **model**:
       - Adverbs = [slowly, warmly, sadly, etc]
     1.3 Details = [near the river, at home, in the park, etc]
     
-    [Source Code] (https://github.com/Yunchov98/RandomSentencesGenerator/blob/main/randomSentencesGenerator.js)
+    [Source Code] https://github.com/Yunchov98/RandomSentencesGenerator/blob/main/randomSentencesGenerator.js
