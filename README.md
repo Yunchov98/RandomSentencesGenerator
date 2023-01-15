@@ -14,7 +14,3 @@ The **Generator** is based on the following **model**:
     
     [Source Code] https://github.com/Yunchov98/RandomSentencesGenerator/blob/main/randomSentencesGenerator.js
     
-    You can try the generator directly in your Web browser here: 
-    
-    [<img alt = "Play Button" src = "https://user-images.githubusercontent.com/85368212/169246359-2c4f-42ff-b980-fe0c229f35c9.png" />]
-    (https://replit.com/@Yunchov/RandomSentancesGenerator#randomSentencesGenerator.js)
